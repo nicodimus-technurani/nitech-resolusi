@@ -2,7 +2,11 @@ Rencana konten
 - Olahraga
   * Umum
   * Keluarga
+    ^ Bapak-Ibu
+    ^ Anak-anak
 - Interview
+  * Testimoni
+- Vlog
 - Product
   * Shake
   * PPP
