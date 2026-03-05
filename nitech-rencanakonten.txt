@@ -1,8 +1,12 @@
 Rencana konten 
-- olahraga
-* Umum
-* Keluarga
-* Anak-anak
-- interview
-- vlog
-- product
+
+- Olahraga
+  * Umum
+  * Keluarga
+    ^ Bapak-Ibu
+    ^ Anak-anak
+- Interview
+  * Testimoni
+- Vlog
+- Product
+- Bisnis
