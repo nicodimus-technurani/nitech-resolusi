@@ -3,8 +3,7 @@ Rencana konten
 - Olahraga
   * Umum
   * Keluarga
-    ^ Bapak-bapak
-    ^ Ibu-ibu
+    ^ Bapak-Ibu
     ^ Anak-anak
 - Interview
   * Testimoni
