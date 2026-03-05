@@ -2,3 +2,4 @@ Rencana Nurani
 - membuat aplikasi alur customer
 - mengelola leads dan customer
 - mengelola member
+- mengakses bizzwork
